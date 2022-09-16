@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1663284835 "/Users/karanverma/Desktop/resume/resume/cv-onepage.tex" "cv-onepage.pdf" "cv-onepage" 1663284836
-  "/Users/karanverma/Desktop/resume/resume/cv-onepage.tex" 1662868049 3009 d6c4008279f610f4d98b583fb7dd0706 ""
+["pdflatex"] 1663359724 "/Users/karanverma/Desktop/resume/resume/cv-onepage.tex" "cv-onepage.pdf" "cv-onepage" 1663359724
+  "/Users/karanverma/Desktop/resume/resume/cv-onepage.tex" 1663358411 2913 4cf76318f6289b31537e56c1d11106e4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -25,7 +25,6 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1136768653 1116 25a7bf822c58caf309a702ef79f4afbb ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti7.tfm" 1136768653 1492 86331993fe614793f5e7e755835c31c5 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti9.tfm" 1136768653 1476 cccc6cc4935c18ec3d5623b77ecb8b74 ""
-  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm" 1136768653 768 d7b9a2629a0c353102ad947dc9221d49 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm" 1463430686 1360 76c648952c3cfb458d3ca1d9dde7e9bf ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1248133631 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1248133631 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
@@ -36,7 +35,6 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1248133631 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb" 1248133631 32442 c975af247b6702f7ca0c299af3616b80 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb" 1248133631 36607 d654cb3f2bc54f57509240071db3bffa ""
-  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb" 1248133631 24287 6b803fa9eb1ddff9112e00519b09dd9e ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb" 1215737283 154599 ded6d7c21788a8930eadc7fef7518942 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb" 1215737283 149037 995a6f1e12c1d647b99b1cf55db78699 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb" 1463430686 173219 54847ac27638e1e28852258f5be2fa20 ""
@@ -106,13 +104,13 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1662867233 2826441 85ef82096ef741511b4c753351cb5260 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "cv-onepage.aux" 1663284836 766 d2be773f2eb6aabc40a0760dc0a7f24b "pdflatex"
+  "cv-onepage.aux" 1663359724 766 d2be773f2eb6aabc40a0760dc0a7f24b "pdflatex"
   "cv-onepage.out" 0 -1 0 "pdflatex"
-  "cv-onepage.tex" 1662868049 3009 d6c4008279f610f4d98b583fb7dd0706 ""
+  "cv-onepage.tex" 1663358411 2913 4cf76318f6289b31537e56c1d11106e4 ""
   "sections/education-column.tex" 1662924666 1306 7afc6fe84e95906c662744a638caca3c ""
-  "sections/experience.tex" 1663109530 1264 24d411cfbd1a14abea9288b3e7f81abc ""
+  "sections/experience.tex" 1663358618 1112 46634d7d05ea0179d489fae108a4bba4 ""
   "sections/misc.tex" 1662867813 721 cd6d49ec67c3df7fa568a394f50612f7 ""
-  "sections/project.tex" 1663284835 1788 b4017d8a26cc72df7f2c535603951c76 ""
+  "sections/project.tex" 1663359724 2136 31d36edb194daa614e8c58d449205bff ""
   "sections/skills.tex" 1663031355 491 e84b615af5d7544fd415644b864b5290 ""
   (generated)
   "cv-onepage.aux"
