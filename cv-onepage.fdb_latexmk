@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1663359724 "/Users/karanverma/Desktop/resume/resume/cv-onepage.tex" "cv-onepage.pdf" "cv-onepage" 1663359724
+["pdflatex"] 1663360723 "/Users/karanverma/Desktop/resume/resume/cv-onepage.tex" "cv-onepage.pdf" "cv-onepage" 1663360724
   "/Users/karanverma/Desktop/resume/resume/cv-onepage.tex" 1663358411 2913 4cf76318f6289b31537e56c1d11106e4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -104,13 +104,13 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1662867233 2826441 85ef82096ef741511b4c753351cb5260 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "cv-onepage.aux" 1663359724 766 d2be773f2eb6aabc40a0760dc0a7f24b "pdflatex"
+  "cv-onepage.aux" 1663360724 766 d2be773f2eb6aabc40a0760dc0a7f24b "pdflatex"
   "cv-onepage.out" 0 -1 0 "pdflatex"
   "cv-onepage.tex" 1663358411 2913 4cf76318f6289b31537e56c1d11106e4 ""
-  "sections/education-column.tex" 1662924666 1306 7afc6fe84e95906c662744a638caca3c ""
+  "sections/education-column.tex" 1663360278 1478 b74e702a73718baade7e78ef7fec1d65 ""
   "sections/experience.tex" 1663358618 1112 46634d7d05ea0179d489fae108a4bba4 ""
   "sections/misc.tex" 1662867813 721 cd6d49ec67c3df7fa568a394f50612f7 ""
-  "sections/project.tex" 1663359724 2136 31d36edb194daa614e8c58d449205bff ""
+  "sections/project.tex" 1663360723 2136 abfb24bda357e54c417ab8b420d693c0 ""
   "sections/skills.tex" 1663031355 491 e84b615af5d7544fd415644b864b5290 ""
   (generated)
   "cv-onepage.aux"
